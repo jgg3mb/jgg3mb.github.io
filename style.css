@@ -1,0 +1,14 @@
+h1 {
+font-family: Georgia, serif;
+color: green;
+}
+
+ul{
+font-family: Garamond, sans-serif;
+color: 333333;
+}
+
+.beverage,
+.beverage li {
+color: #999999;
+}
